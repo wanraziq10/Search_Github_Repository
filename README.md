@@ -19,7 +19,9 @@ venv/scripts/activate
 ```
 
 ### INSTALL LIBRARIES
+```python
 pip install -r requirements.txt
+```
 
 ## RUN THE PROJECT
 ```python
