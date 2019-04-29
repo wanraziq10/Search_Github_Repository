@@ -1,4 +1,4 @@
-# SEARCH GITHUB REPISOTARY
+# SEARCH GITHUB REPOSITARY
 This project is about Users to search language or topic in Github Repisotary.
 
 ## INSTALLATION
