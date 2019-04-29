@@ -14,8 +14,14 @@ After done the installation need to activate the virtual environment at the term
 virtualenv venv
 ```
 
+For Windows
 ```python
 venv/scripts/activate
+```
+
+For MAC OS
+```python
+venv/bin/activate
 ```
 
 ### INSTALL LIBRARIES
