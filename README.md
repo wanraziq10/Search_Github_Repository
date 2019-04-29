@@ -32,4 +32,4 @@ pytest tests --disable-warnings -v
 ```
 
 ## ADMIN REPORT
-The report is provided in report folder in text file.
+The report will be generate in text file.
